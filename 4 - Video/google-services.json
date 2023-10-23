@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "513017351959",
+    "firebase_url": "https://tutorial-notification-ad5a6-default-rtdb.firebaseio.com",
+    "project_id": "tutorial-notification-ad5a6",
+    "storage_bucket": "tutorial-notification-ad5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513017351959:android:be67625f4619d8721b7152",
+        "android_client_info": {
+          "package_name": "com.masisoteam.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESqhUSBHJl6THL_S3AoDRwQ4JaUgf-OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
